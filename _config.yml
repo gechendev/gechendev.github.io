@@ -1,5 +1,13 @@
-title: Slate theme
-description: Slate is a theme for GitHub Pages.
-show_downloads: true
-google_analytics:
-theme: jekyll-theme-slate
+title: Ge Chen
+email: chenge@mail.sdu.edu.cn
+description: PhD Student, Fine Arts School of Shandong University
+baseurl: ""
+url: ""
+twitter_username: 
+github_username: gechendev
+
+# Build settings
+markdown: kramdown
+theme: minima
+plugins:
+  - jekyll-feed
